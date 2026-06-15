@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&subset=greek,cyrillic');
+:root{
+    --surface-color: #fff;
+    --curver: 40;
+    --bg-pink: #fef8f8;
+    --black-color: #6a515e;
+    --text-color: #d7bdca;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'poppins', sans-serif;
+    background-color: var(--bg-pink);
+}
